@@ -1,3 +1,5 @@
+import 'styled-components'
+
 export const defaultTheme = {
     white: '#fff',
   
