@@ -1,4 +1,4 @@
-import { HeaderContainer, HeaderContent } from "./style";
+import { HeaderContainer, HeaderContent, NewTransactionButton } from "./style";
 import logoImg from '../../assets/logo.svg';
 
 export function Header() {
@@ -7,6 +7,7 @@ export function Header() {
         <HeaderContainer>
             <HeaderContent>
                 <img src={logoImg} alt="Logo DT Money" />
+                <NewTransactionButton>Nova transação</NewTransactionButton>
             </HeaderContent>
         </HeaderContainer>
     );
