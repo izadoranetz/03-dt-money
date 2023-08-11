@@ -1,0 +1,12 @@
+{
+  "transactions": [
+      {
+          "id": 1,
+          "description": "Criação de identidade visual",
+          "type": "income",
+          "category": "Venda",
+          "price": 7000,
+          "createdAt": "2023-08-11T23:39:30.056Z"
+      }
+  ]
+}
